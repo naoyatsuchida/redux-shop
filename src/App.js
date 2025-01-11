@@ -7,6 +7,7 @@ function App() {
   return (
     <main>
       <Navbar />
+      <div>fizz</div>
       <CartContainr />
     </main>
   );

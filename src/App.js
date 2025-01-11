@@ -8,8 +8,6 @@ function App() {
     <main>
       <Navbar />
       <CartContainr />
-      <div>hogesann</div>
-      <div>馬鹿でもわかる</div>
     </main>
   );
 }

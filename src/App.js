@@ -8,6 +8,7 @@ function App() {
     <main>
       <Navbar />
       <CartContainr />
+      <div>hoge</div>
     </main>
   );
 }

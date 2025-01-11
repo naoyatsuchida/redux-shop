@@ -4,8 +4,6 @@ import CartItem from "./CartItem";
 export const CartContainr = () => {
   const { amount, cartItems, total } = useSelector((stor) => stor.cart);
 
-  console.log("amount", amount);
-  console.log("cartItems", cartItems);
   const CartHeader = () => {
     return (
       <header>

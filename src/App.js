@@ -7,6 +7,7 @@ function App() {
   return (
     <main>
       <Navbar />
+      <p>hoge</p>
       <CartContainr />
     </main>
   );

@@ -8,6 +8,7 @@ function App() {
     <main>
       <Navbar />
       <CartContainr />
+      <div>馬鹿でもわかる</div>
     </main>
   );
 }
